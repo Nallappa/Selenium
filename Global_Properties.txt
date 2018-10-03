@@ -1,0 +1,12 @@
+
+URL=""
+Browser_type= Chrome
+Chrome_Path=D:\\Latest_Selenium\\Drivers\\chromedriver.exe
+IE_Path=D:\\SeleniumDrivers\\IEDriverServer1.exe
+Report_Path=D:\\Main_Selenium\\Main_Selenium\\Reports\\
+TestData_Path=D:\\Latest_Selenium\\Latest_Selenium\\Test\\DATASHEET.xlsx
+From = ""
+To= ""
+CC = ""
+IE =InternetExplorer
+CR= Chrome
